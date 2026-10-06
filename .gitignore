@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins*
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+android/.kotlin/
